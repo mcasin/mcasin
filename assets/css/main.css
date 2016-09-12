@@ -2666,7 +2666,7 @@
 	}
 
 	header.major {
-		margin-bottom: 1em;
+		margin-bottom: 0;
 	}
 
 		header.major h2 {
@@ -2702,7 +2702,7 @@
 			}
 
 	footer.major {
-		margin-top: 1em;
+		margin-top: 0;
 	}
 
 	@media screen and (max-width: 736px) {
